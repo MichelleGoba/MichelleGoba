@@ -4,9 +4,8 @@
 #### Junior Software Developer
 
 ![Junior Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png
-![Junior Software Developer](./your-header-image-name.png)
-![Header](./your-header-image-name.png)
+
+![Header](./github-header-image (1).png)
 
 I am a Junior Software Developer from Cape Town who is learning how to navigate the development processes. My area of competence includes designing websites and applications. I enjoy learning languages and frameworks such as React JS, JavaScript, Python, as well as UI/UX design.
 
