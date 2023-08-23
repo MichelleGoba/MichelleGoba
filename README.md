@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Michelle
 #### Junior Software Developer
-
+![Junior Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 ![Header](./your-header-image-name.png)
 
 I am a Junior Software Developer from Cape Town who is learning how to navigate the development processes. My area of competence includes designing websites and applications. I enjoy learning languages and frameworks such as React JS, JavaScript, Python, as well as UI/UX design.
