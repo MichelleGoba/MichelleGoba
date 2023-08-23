@@ -8,7 +8,7 @@ I am a Junior Software Developer from Cape Town who is learning how to navigate 
 
 Skills: REACT / JS / PYTHON / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on my online Portfolio 
 - 🌱 I’m currently learning React JS 
 
 
