@@ -6,7 +6,6 @@
 
 I am a Junior Software Developer from Cape Town who is learning how to navigate the development processes. My area of competence includes designing websites and applications. I enjoy learning languages and frameworks such as React JS, JavaScript, Python, as well as UI/UX design.
 
-<h3 align="center">A passionate frontend developer from Cape Town</h3>
 
 - 🔭 I’m currently working on **my Online Portfolio**
 
