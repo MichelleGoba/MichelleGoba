@@ -22,6 +22,5 @@ I am a Junior Software Developer from Cape Town who is learning how to navigate 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michellegoba&show_icons=true&locale=en&layout=compact" alt="michellegoba" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michellegoba&show_icons=true&locale=en" alt="michellegoba" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelleGoba&show_icons=true&theme=radical)
