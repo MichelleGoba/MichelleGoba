@@ -4,6 +4,7 @@
 #### Junior Software Developer
 
 ![Junior Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png
 ![Junior Software Developer](./your-header-image-name.png)
 ![Header](./your-header-image-name.png)
 
