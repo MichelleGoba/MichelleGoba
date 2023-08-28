@@ -20,6 +20,19 @@ I am a Junior Software Developer from Cape Town who is learning how to navigate 
 
 
 
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D4D16AQHiFpjiwn9Daw/profile-displaybackgroundimage-shrink_350_1400/0/1692946301388?e=1698883200&v=beta&t=6-Wex3M9FjpIJ9cY2pmtFJSpB-1upps6r4OEwAvyf6g)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
 
 
 
