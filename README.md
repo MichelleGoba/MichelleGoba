@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Michelle
 #### I am a Junior Software Developer
-![I am a Junior Software Developer](https://media.licdn.com/dms/image/D4D16AQHAXhT3r2RvTg/profile-displaybackgroundimage-shrink_350_1400/0/1692945946364?e=1698278400&v=beta&t=oVGlBCcAPWHjZGSMGMeYZaSGoRKFmQC2HoeZ4wDEGQ0)
+[![I am a Junior Software Developer](https://media.licdn.com/dms/image/D4D16AQHAXhT3r2RvTg/profile-displaybackgroundimage-shrink_350_1400/0/1692945946364?e=1698278400&v=beta&t=oVGlBCcAPWHjZGSMGMeYZaSGoRKFmQC2HoeZ4wDEGQ0)](https://media.licdn.com/dms/image/D4D16AQHiFpjiwn9Daw/profile-displaybackgroundimage-shrink_350_1400/0/1692946301388?e=1698883200&v=beta&t=6-Wex3M9FjpIJ9cY2pmtFJSpB-1upps6r4OEwAvyf6g)
 
 I am a Junior Software Developer from Cape Town who is learning how to navigate the development processes. My area of competence includes designing websites and applications. I enjoy learning languages and frameworks such as React JS, JavaScript, Python, as well as UI/UX design.
 
