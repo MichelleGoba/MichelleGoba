@@ -2,7 +2,7 @@
 #### I am a Junior Software Developer
 ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D4D16AQHiFpjiwn9Daw/profile-displaybackgroundimage-shrink_350_1400/0/1692946301388?e=1698883200&v=beta&t=6-Wex3M9FjpIJ9cY2pmtFJSpB-1upps6r4OEwAvyf6g)
 
-![Header](./github-header-image (5).png)
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D4E16AQFbvbKEsAwEcw/profile-displaybackgroundimage-shrink_350_1400/0/1695975856752?e=1701302400&v=beta&t=vJx74jkgT_UlyHP6t2KPTXxo--nDY5qVPIdK26sdXQo)
 
 I am a Junior Software Developer from Cape Town who is learning how to navigate the development processes. My area of competence includes designing websites and applications. I enjoy learning languages and frameworks such as React JS, JavaScript, Python, as well as UI/UX design.
 
