@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Michelle
 #### I am a Junior Software Developer
 
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D4E16AQFbvbKEsAwEcw/profile-displaybackgroundimage-shrink_350_1400/0/1695975856752?e=1701302400&v=beta&t=vJx74jkgT_UlyHP6t2KPTXxo--nDY5qVPIdK26sdXQo)
+![github-header-image (5)](https://github.com/MichelleGoba/UX-UI-Design-Roadmap/assets/127187021/0bb4a43b-dcd9-45ca-8bf7-b2768813d78a)
+
 
 I am a Junior Software Developer from Cape Town who is learning how to navigate the development processes. My area of competence includes designing websites and applications. I enjoy learning languages and frameworks such as React JS, JavaScript, Python, as well as UI/UX design.
 
